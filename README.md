@@ -83,5 +83,4 @@ O projeto demonstrou como técnicas de Ciência de Dados podem ser utilizadas pa
 ---
 
 ## 👩‍💻 Autora
-
-* **Bianca Melliny de Lima Vaz** Atividade acadêmica prática desenvolvida como parte dos requisitos da disciplina de Ciência de Dados do curso de Análise e Desenvolvimento de Sistemas.
+* **Bianca Melliny de Lima Vaz** — Atividade acadêmica desenvolvida para a disciplina de Ciência de Dados.
